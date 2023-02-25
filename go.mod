@@ -11,5 +11,5 @@ require (
 	github.com/ktr0731/go-fuzzyfinder v0.2.1
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/stretchr/testify v1.6.1 // indirect
-	golang.org/x/net v0.0.0-20200707034311-ab3426394381 // indirect
+	golang.org/x/net v0.7.0 // indirect
 )
